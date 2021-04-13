@@ -10,4 +10,4 @@ const LanguageProvider = (props) => {
 
 }
 
-export default LanguageProvider;
+export default LanguageProvider;// snap dit niet
