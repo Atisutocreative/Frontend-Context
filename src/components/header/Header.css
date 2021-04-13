@@ -1,5 +1,8 @@
 .header-image {
     width: 100%;
+
+
+
 }
 
 header {
@@ -46,12 +49,13 @@ nav a:link {
 
 .language-switch {
     display: flex;
+    color: darkred;
 }
 
 .language-switch svg {
-    display: block;
+    display: inline-block;
     width: 30px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .active {
